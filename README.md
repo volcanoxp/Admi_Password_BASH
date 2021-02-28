@@ -25,6 +25,6 @@
 4. Para listar las contraseñas guardadas **-l**
 
     ```
-    ./saveKey.sh -u Username1 -l
+    ./saveKey.sh -l
     ```
      <img src="./images/list.PNG" alt="JuveR" width="800px">
